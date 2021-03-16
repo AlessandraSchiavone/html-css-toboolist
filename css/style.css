@@ -11,7 +11,7 @@
     vertical-align: 20%;
 }
 
-.conteiner{
+.container{
     background-color: #F6F8F9;
     padding-top: 50px;
     height: 1000px;
@@ -75,7 +75,7 @@ main{
     color:#EB5A53;
     border-color:#EB5A53;
 }
- 
+ /*colori form1*/
 #task{
     background-color: #47ADF1;
     color:white;
@@ -85,7 +85,7 @@ main{
     border: 1px solid lightgray;
 }
 
-
+/*colori form2*/
 
 .editorial{
     background-color: #47ADF1;
